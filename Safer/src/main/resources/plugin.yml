@@ -1,0 +1,6 @@
+name: SAFE
+version: '${project.version}'
+main: safe.safe.SAFE
+api-version: 1.19
+authors: [ BeetcodeMC ]
+description: A plugin to set a safe time or grace period.
